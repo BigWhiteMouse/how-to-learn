@@ -1,6 +1,8 @@
 .video__iframes{
+  padding-left: 0;
   padding-top: 50px;
   display: flex;
   justify-content: center;
+  margin-top: 0;
   margin-bottom: -50px; /*в брифе не указано, на сколько видео должно заходить на границу соседней секции, поэтому сделала на глазок*/
 }

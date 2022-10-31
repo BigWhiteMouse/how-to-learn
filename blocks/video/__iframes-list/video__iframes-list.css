@@ -1,0 +1,8 @@
+.video__iframes-list{
+  list-style-type: none;
+}
+
+.video__iframes-list:first-of-type{
+  margin-right: 20px;
+}
+
